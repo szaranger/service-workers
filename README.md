@@ -1,4 +1,4 @@
-# Node Security App
+# Service Worker App
 
 This project serves as source for the blog post described below.
 
